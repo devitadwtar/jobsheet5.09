@@ -5,7 +5,7 @@ public class PemilihanPercobaan109_1{
 
         Scanner input09 = new Scanner(System.in);
 
-        System.out.print("Masukkan angka; ");
+        System.out.print("Masukkan nilai; ");
         int Nilai = input09.nextInt();
 
         if (Nilai < 75) {
